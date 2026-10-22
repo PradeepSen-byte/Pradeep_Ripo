@@ -1,0 +1,4 @@
+ name - pradeep
+age----- 26
+college - nri
+address - ashoka garden

@@ -1,4 +1,4 @@
-# Customer Segmentation using K-Means Clustering
+ # Customer Segmentation using K-Means Clustering
 
 This project implements customer segmentation using the **K-Means Clustering** unsupervised learning algorithm on the Mall Customers dataset (`Mall_Customers.csv`).
 
